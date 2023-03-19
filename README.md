@@ -8,6 +8,9 @@ Using Validate Email is very quick and easy.
 // Import Package
 const validateEmail = require("@williamharrison/validate-email");
 
-// Execute and log result
 console.log(validateEmail("john@example.com");
+// true
+
+console.log(validateEmail("hello world");
+// false
 ```
