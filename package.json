@@ -1,6 +1,6 @@
 {
   "name": "@williamharrison/validate-email",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small package to validate email addresses.",
   "main": "index.js",
   "repository": {
